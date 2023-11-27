@@ -1,0 +1,40 @@
+body {
+    background-color: aqua;
+    font-family: georgia;
+}
+
+h1 {
+    font-family: COmic Sans MS;
+    text-align: center;
+    font-size: 60px;
+    color: darkblue;
+}
+
+h4 {
+    text-align: right;
+    font-style: italic;
+}
+
+.p1 {
+    color:white
+    font-variant-caps;
+}
+
+.p1:hover {
+    color:red;
+    text-align: center;
+}
+
+.ft {
+    text-align: right;
+}
+
+.p2 {
+    text-decoration: none;
+}
+
+.p2:hover {
+    color:white
+    background-color:blue
+    text-decoration
+}

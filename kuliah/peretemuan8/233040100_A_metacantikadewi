@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html Lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="witdh=device=width, initial-s
+    <title>UTS META</title>
+    <link rel="stylesheet" href="metacantikadewi.style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>HELLO WORD</h1>
+        </div>
+
+        <div class="main">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+                doeiusmad tempor incididunt ut Lsbore et dolore magna aliqua.</p>
+            </p>
+        </div>
+
+        <div class="footer">
+            <p>Copyright Pw1. &copy; 2018.</p>
+        </div>
+
+    </div>
+
+</body>
+</html>

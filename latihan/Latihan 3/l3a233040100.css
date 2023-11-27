@@ -1,0 +1,18 @@
+body {
+    background-color: aqua;
+    text-align: justify;
+}
+
+.container {
+    font-family: georgia;
+}
+
+.h1 {
+    font-family: Comic Sans MS, Georgia;
+}
+
+.h4 {
+    font-family: Georgia;
+    text-align: right;
+    font-style: italic;
+}
